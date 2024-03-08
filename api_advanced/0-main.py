@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-n
-=======
 #!/usr/bin/python3
 """
 0-main
->>>>>>> c588c9e4dfd21b02eef21ba28277f43e19df1293
 """
 import sys
 
